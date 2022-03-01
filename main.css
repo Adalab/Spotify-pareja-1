@@ -42,6 +42,8 @@ header p {
 
 .iconos {
   list-style-type: none;
+  display: flex;
+  flex-direction: row;
 }
 
 .icons-2 {
@@ -50,4 +52,14 @@ header p {
 
 .seccion-mujer {
   background-color: #54aeff;
+}
+
+.seccion-iconos {
+  align-items: center;
+}
+
+.titulo-3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
