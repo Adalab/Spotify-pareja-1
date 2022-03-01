@@ -32,3 +32,9 @@ header p {
 .d-flex {
   display: flex;
 }
+.iconos {
+  list-style-type: none;
+}
+.icons-2 {
+  float: left;
+}
